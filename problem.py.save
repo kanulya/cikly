@@ -1,0 +1,4 @@
+lang = 'go'
+langs = ['go', 'java', 'php', 'python', 'javascript', 'ruby']
+for lang in langs:
+	print(lang, "this language is in list")
